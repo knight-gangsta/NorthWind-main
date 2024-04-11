@@ -1,4 +1,4 @@
-﻿﻿//namespace NorthWind.Entities.ValueObjects
+﻿﻿namespace NorthWind.Entities.ValueObjects
 {
     public class UserAction(string user, string description)
     {

@@ -1,4 +1,4 @@
-﻿//namespace NorthWind.Entities.Interfaces
+﻿namespace NorthWind.Entities.Interfaces
 {
     public interface IUserActionWriter
     {
