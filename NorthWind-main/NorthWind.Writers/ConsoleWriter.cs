@@ -1,4 +1,4 @@
-﻿/*using NorthWind.Entities.Interfaces;
+﻿using NorthWind.Entities.Interfaces;
 using NorthWind.Entities.ValueObjects;
 
 namespace NorthWind.Writers
@@ -11,4 +11,4 @@ namespace NorthWind.Writers
                 action.CreatedDateTime, action.User, action.Description);
         }
     }
-}*/
+}
